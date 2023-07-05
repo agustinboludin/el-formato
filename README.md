@@ -3,7 +3,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>el formato</title>
 </head>
 <body>
 <link rel="stylesheet" type="text/css" href="estilo.css">
