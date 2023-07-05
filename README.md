@@ -13,6 +13,5 @@
  	<li>talle 44 para hombre</li>
  	<li>color negro</li>
  </h2>
- <a href="https://www.youtube.com/watch?v=33j6JmCf7Wo&pp=ygUOYmFpbGUgZGVsIHRyb2w%3D">click para comprar YA</a>
 </body>
 </html>
